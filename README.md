@@ -2,8 +2,6 @@
 
 Apps for the DO101 course.
 
-- Hello World
+- weather
 
-  cd express-helloworld
-  npm install
-  npm start
+ http://api.openweathermap.org/data/2.5/weather?q=London&appid=api_key 
